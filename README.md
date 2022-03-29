@@ -6,7 +6,7 @@ Submitted by: **Chelsea Chu**
 
 Time spent: **3** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com/edit/#!/shiny-luxuriant-lillipilli)
+Link to project: https://glitch.com/edit/#!/shiny-luxuriant-lillipilli
 
 ## Required Functionality
 
