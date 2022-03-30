@@ -38,6 +38,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 Losing With 3 Mistakes:
+<br>
 <img src="MemoryGame-Lose.gif"><br>
 ![](gif2-link-here)
 ![](gif3-link-here)
