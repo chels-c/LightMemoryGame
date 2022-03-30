@@ -39,6 +39,7 @@ Losing the Game:
 
 Winning the Game: 
 (html page elements styled differently, 5 game buttons shown, playback speeds up on each turn shown)
+<br>
 Part 1 
 <br><img src="MemoryGameWin1.gif"><br>
 Part 2
