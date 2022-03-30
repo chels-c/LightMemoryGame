@@ -32,14 +32,10 @@ The following **optional** features are implemented:
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
 * [ ] User has a limited amount of time to enter their guess on each turn
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app!
 
 ## Video Walkthrough (GIF)
 Losing With 3 Mistakes:
-<br>
-<img src="MemoryGame-Lose.gif"><br>
+<br><img src="MemoryGame-Lose.gif"><br>
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
