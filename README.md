@@ -37,9 +37,8 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app!
 
 ## Video Walkthrough (GIF)
-
-If you recorded multiple GIFs for all the implemented features, you can add them here:
-Losing With 3 Mistakes<img src="MemoryGame-Lose.gif"><br>
+Losing With 3 Mistakes:
+<img src="MemoryGame-Lose.gif"><br>
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
