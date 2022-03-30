@@ -32,13 +32,17 @@ The following **optional** features are implemented:
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
 * [ ] User has a limited amount of time to enter their guess on each turn
 
-
 ## Video Walkthrough (GIF)
-Losing With 3 Mistakes:
+Losing the Game:
+(html page elements styled differently, 5 game buttons shown, 3 strikes shown)
 <br><img src="MemoryGame-Lose.gif"><br>
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+
+Winning the Game: 
+(html page elements styled differently, 5 game buttons shown, playback speeds up on each turn shown)
+Part 1 
+<br><img src="MemoryGameWin1.gif"><br>
+Part 2
+<br><img src="MemoryGameWin2.gif"><br>
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
