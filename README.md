@@ -69,7 +69,7 @@ I’d also be interested in making the game a little more challenging, perhaps b
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording] https://youtu.be/Mz6rN2wf9Ac
 
 
 ## License
